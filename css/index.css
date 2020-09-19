@@ -9,6 +9,10 @@ body{
     background-color: #85BFCD;
 }
 
+.img-logo {
+    margin-top: 5px;
+}
+
 .title-page h1{
     text-align: center;
     font-size: 2.5em;
